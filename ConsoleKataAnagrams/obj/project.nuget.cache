@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g1yXJaenY8Gvhe26UpaZYagAqxTv8ctgOgBrwAX/b/AtfRUb9DMCk1gZ5Rc3bwaru2nBuaRMRtXE3s0xmZHXKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Presentacion-Grupal\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -15,7 +15,18 @@ let getAnagramInputEmptyStringArrayShouldReturnEmptyList () =
 
 [<Test>]
 let getAnagramInputWordArrayShouldReturnArrayOfAnagrams () =
-    let expected = [("moor", ["romo"; "moro"])]
-    let actual = Tools.getAnagrams [| "romo"; "moro"; "hola"|]
+    let expected = [ ("moor", [ "romo"; "moro" ]) ]
+
+    let actual =
+        Tools.getAnagrams [| "romo"
+                             "moro"
+                             "hola" |]
+
+    Assert.That(expected, Is.EqualTo(actual))
+
+[<Test>]
+let getAnagramInputThereIsNoAnagramsShouldReturnEmptyList () =
+    let expected = []
+    let actual = Tools.getAnagrams [| "hola"; "adios" |]
 
     Assert.That(expected, Is.EqualTo(actual))
