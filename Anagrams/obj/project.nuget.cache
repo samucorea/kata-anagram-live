@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3kaCau1vXs9jMhpNPRJ53KZifTzxaUwfgqh4BulskniCwxMgEAz/tt9Etz4NSWSblpRMVk9Y3iEoJUbQFcMChA==",
+  "dgSpecHash": "GFMDlJAj+JpC9sm4lxoEvIkA5znFZrpiBj1PgCfmOxuSt3jXusRgAv3dlKQimxtztI92Xdz4/6YBT6VfI5DAmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samuel\\kata-anagrams-live\\Anagrams\\Anagrams.fsproj",
+  "projectFilePath": "C:\\Users\\Freedom 7231\\Desktop\\kata\\Anagrams\\Anagrams.fsproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Samuel\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+    "C:\\Users\\Freedom 7231\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

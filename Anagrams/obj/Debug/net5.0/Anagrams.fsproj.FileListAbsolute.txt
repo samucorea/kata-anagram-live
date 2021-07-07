@@ -8,3 +8,13 @@ C:\Users\Samuel\kata-anagrams-live\Anagrams\obj\Debug\net5.0\Anagrams.AssemblyIn
 C:\Users\Samuel\kata-anagrams-live\Anagrams\obj\Debug\net5.0\Anagrams.dll
 C:\Users\Samuel\kata-anagrams-live\Anagrams\obj\Debug\net5.0\Anagrams.xml
 C:\Users\Samuel\kata-anagrams-live\Anagrams\obj\Debug\net5.0\Anagrams.pdb
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\bin\Debug\net5.0\Anagrams.deps.json
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\bin\Debug\net5.0\Anagrams.dll
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\bin\Debug\net5.0\Anagrams.pdb
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\bin\Debug\net5.0\Anagrams.xml
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\obj\Debug\net5.0\Anagrams.fsprojAssemblyReference.cache
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\obj\Debug\net5.0\Anagrams.AssemblyInfoInputs.cache
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\obj\Debug\net5.0\Anagrams.AssemblyInfo.fs
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\obj\Debug\net5.0\Anagrams.dll
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\obj\Debug\net5.0\Anagrams.xml
+C:\Users\Freedom 7231\Desktop\kata\Anagrams\obj\Debug\net5.0\Anagrams.pdb
