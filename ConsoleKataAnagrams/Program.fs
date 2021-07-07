@@ -1,13 +1,17 @@
 // Learn more about F# at http://docs.microsoft.com/dotnet/fsharp
 
 open System
+open Anagrams 
 
-// Define a function to construct a message to print
-let from whom =
-    sprintf "from %s" whom
 
-[<EntryPoint>]
-let main argv =
-    let message = from "F#" // Call the function
-    printfn "Hello world %s" message
-    0 // return an integer exit code
+    [<EntryPoint>]
+let main argv = 
+    let filename = "wordlist.txt"
+    let listOfWords = System.IO.File.ReadAllLines(filename)
+    let listOfAnagrams = Tools.getAnagrams listOfWords
+
+    // Prints 
+    listOfAnagrams |> Array.iter  (fun (_ , anagramList) ->  anagramList |> Array.iter 
+(fun str -> printfn "%s" str); printfn "")
+
+0

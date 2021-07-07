@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\Presentacion-Grupal\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj": {}
+    "C:\\Users\\letic\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\Presentacion-Grupal\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj": {
+    "C:\\Users\\letic\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Presentacion-Grupal\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj",
+        "projectUniqueName": "C:\\Users\\letic\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj",
         "projectName": "ConsoleKataAnagrams",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Presentacion-Grupal\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Presentacion-Grupal\\kata-anagram-live\\ConsoleKataAnagrams\\obj\\",
+        "projectPath": "C:\\Users\\letic\\kata-anagram-live\\ConsoleKataAnagrams\\ConsoleKataAnagrams.fsproj",
+        "packagesPath": "C:\\Users\\letic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\letic\\kata-anagram-live\\ConsoleKataAnagrams\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\letic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
